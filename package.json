@@ -11,7 +11,7 @@
     "lint": "eslint --ext .js,.vue src"
   },
   "dependencies": {
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.13",
     "mpvue": "^1.0.10",
     "vuex": "^2.5.0",
     "vuex-persistedstate": "^2.5.2"
